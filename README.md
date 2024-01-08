@@ -34,6 +34,10 @@ pyinstaller --onefile -w client.spec
 
 PoC:
 ----
-https://github.com/Business1sg00d/ReverseShell_WindowsAV_Bypass/assets/112768445/a4be1d1d-dfc0-42eb-9f43-42ede51cc509
+
+
+https://github.com/Business1sg00d/ReverseShell_WindowsAV_Bypass/assets/112768445/c7699023-1947-4dbe-9962-c6fd4ec93a4a
+
+
 ![root_root](https://github.com/Business1sg00d/ReverseShell_WindowsAV_Bypass/assets/112768445/afce18a1-facf-43a1-8eb8-8d521cabeeb1)
 
