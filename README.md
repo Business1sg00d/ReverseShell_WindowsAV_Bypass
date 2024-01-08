@@ -6,14 +6,14 @@ Compilation steps (Done on Windows 10 Home):
 ---------
 
 ```
-git clone
+git clone https://github.com/Business1sg00d/ReverseShell_WindowsAV_Bypass.git
 ```
 
-1. Create a virtual environment and activate (optional but recommended; the folder name in this exampel is AV_Repo):
+1. Create a virtual environment and activate (optional but recommended):
 ```
-C:\>python3 -m venv AV_Repo
-cd AV_Repo
-C:\AV_Repo>.\Scripts\activate.bat
+python3 -m venv ReverseShell_WindowsAV_Bypass
+cd ReverseShell_WindowsAV_Bypass
+.\Scripts\activate.bat
 ```
 
 2. With pip:
