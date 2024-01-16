@@ -1,5 +1,19 @@
 # ReverseShell_WindowsAV_Bypass
-Compile reverse shell into static executable with pyinstaller. Tested on fully patched Windows 10 Home/Pro and Windows Server 2022. AV does not trigger.
+Compile reverse shell into static executable with pyinstaller. AV does not trigger on the following Windows versions and patches:
+
+Passes as of patch on Windows 10 Pro:
+-------------------------------------
+KB5034122 1/11/2024
+KB5034441 1/11/2024
+
+Passes as of patch on Windows 2022 Server:
+------------------------------------------
+KB5034129 1/11/2024 
+KB5034286 1/11/2024 
+
+FAILS AV CHECK ON WINDOWS 10 HOME PATCH:
+----------------------------------------
+KB5034122 1/10/2024
 
 
 Compilation steps (Done on Windows 10 Home):
